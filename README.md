@@ -10,6 +10,7 @@
 <img width="500" alt="Screenshot 2025-03-31 at 7 50 06 PM" src="https://github.com/user-attachments/assets/eba43f82-58de-4727-94d1-78039e65dccc" /><br><br>
 - I scanned the QR with my phone and received an email that shows lots of info:<br><br>
 <img width="500" alt="Screenshot 2025-03-31 at 7 52 11 PM" src="https://github.com/user-attachments/assets/a0513834-c6f4-4347-9871-5a6a2defaa03" /><br><br>
+## Web Bug
 - Let's try a web bug:<br><br>
 <img width="500" alt="Screenshot 2025-03-31 at 8 00 48 PM" src="https://github.com/user-attachments/assets/402d8c0f-cd50-40a3-8fb0-38479cfdb88d" /><br><br>
 - I'm hiding this one in my own <a href="https://swathinator.github.io/">website</a>  (it will be removed once I am done)<br><br>
