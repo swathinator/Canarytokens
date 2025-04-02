@@ -1,5 +1,6 @@
 # Canarytokens
-(Antisyphon training lab from Cyber Deception/Active Defense)
+(Antisyphon training lab from Cyber Deception/Active Defense)<br><br>
+Full lab explanation available on my <a href="https://medium.com/@swathitadepalli/active-defense-and-cyber-deception-antisyphon-training-44c0ee851be4#3ab0">Medium</a>
 ## Canarytokens
 - Navigate to https://www.canarytokens.org/nest/generate#%C2%A0
 - There are several options to choose from, I am going to make a QR code and a Web Bug canary token<br><br>
